@@ -1,0 +1,120 @@
+# Playmaker — Additional Permissions
+
+Copyright (C) 2026 CleatsPL
+
+These additional permissions supplement the GNU Affero General Public License, version 3 ("AGPL-3.0"), pursuant to Section 7 of the AGPL-3.0.
+
+## 1. Additional Permission for the Original Author
+
+Notwithstanding any provision of the AGPL-3.0, CleatsPL grants Pranav Dharanipathy ("Original Author") a perpetual, worldwide, royalty-free, irrevocable, non-exclusive license to use, reproduce, modify, create derivative works from, compile, execute, publish, and distribute any code covered by Section 8 of this document.
+
+This additional permission is granted specifically to the Original Author and is in addition to all rights granted to recipients under the AGPL-3.0.
+
+## 2. Additional Permission for Esteemed Authors
+
+Notwithstanding any provision of the AGPL-3.0, the CleatsPL organization may grant an individual who has been formally designated an "Esteemed Author" by the CleatsPL organization a perpetual-until-revoked, worldwide, royalty-free, non-exclusive license to use, reproduce, modify, create derivative works from, compile, execute, publish, and distribute code covered by Section 8 that was originally authored by that Esteemed Author before its contribution to the Playmaker project.
+
+These permissions are granted specifically to the individual while they hold the designation of Esteemed Author and are in addition to all rights granted to recipients under the AGPL-3.0.
+
+For purposes of this document, "perpetual-until-revoked" means that the permission remains in effect indefinitely unless and until the individual's Esteemed Author designation is revoked in accordance with Section 10.
+
+## 3. Independent Use and Development
+
+The Original Author and any Esteemed Author whose additional permissions remain in effect may use code covered by Section 8 independently of the CleatsPL organization and its repositories.
+
+They may maintain, copy, modify, develop, test, compile, execute, publish, distribute, and create derivative works from such code independently of the CleatsPL organization.
+
+They may maintain such code and derivative works in personally controlled repositories, including private or public repositories, and may continue independent development of such code without restriction arising solely from its previous contribution to the Playmaker project.
+
+## 4. Personal Copies and Forks
+
+The Original Author and any Esteemed Author whose additional permissions remain in effect may maintain, create, and develop personal copies and forks of Playmaker containing code covered by Section 8 outside of CleatsPL organization's repositories.
+
+They may continue to develop such copies and forks independently, regardless of whether the Playmaker project is subsequently modified, renamed, reorganized, transferred, or discontinued.
+
+Nothing in this section limits or restricts the right of any other recipient to copy, fork, modify, develop, or distribute the Playmaker project as permitted by the AGPL-3.0.
+
+## 5. Distribution and Relicensing of Original Author Code
+
+The Original Author and any Esteemed Author whose additional permissions remain in effect may distribute code covered by Section 8, and derivative works consisting solely of or incorporating such code, under the AGPL-3.0 or under another license, provided that the relevant author has sufficient copyright or licensing rights to do so with respect to all material included in the distributed work.
+
+Nothing in this additional permission grants the Original Author or an Esteemed Author any right to relicense, distribute, or otherwise exercise copyright rights over material authored by another contributor merely because that material is included in the CleatsPL.
+
+Where a personal version, fork, or derivative work contains material authored by other contributors, the copyright and licensing rights applicable to those contributions remain unchanged.
+
+## 6. No Transfer of Copyright Ownership
+
+These additional permissions do not transfer copyright ownership in any code to the Original Author or to any Esteemed Author.
+
+Copyright in code contributed to or developed as part of the Playmaker project remains with the respective copyright holder or holders, including the CleatsPL organization where applicable.
+
+The permissions granted by this document constitute additional licensing permissions and do not constitute an assignment, transfer, reservation, or restoration of copyright ownership.
+
+## 7. No Additional Rights for Other Recipients
+
+The additional permissions granted by this document are personal to the Original Author and to individuals who have been designated as Esteemed Authors.
+
+No other recipient, contributor, user, or distributor of the Playmaker project receives these additional permissions solely by receiving, using, modifying, contributing to, or distributing the software.
+
+All other recipients remain subject to the AGPL-3.0 and any other applicable additional permissions.
+
+Nothing in this document limits, removes, or otherwise restricts any rights granted to recipients by the AGPL-3.0. In particular, recipients retain the rights granted by the AGPL-3.0 to copy, fork, modify, create derivative works from, and distribute the Playmaker project, subject to the terms of the AGPL-3.0.
+
+## 8. Definition of Original Author Code
+
+For purposes of this document, "Original Author Code" means source code that:
+
+1. was independently created by the Original Author or an Esteemed Author;
+2. was created by that individual before its contribution to the Playmaker project; and
+3. was not copied or derived from code authored by another person or otherwise subject to rights that the relevant author did not possess.
+
+Original Author Code includes code that was independently developed, tested, and maintained by the relevant author before being copied or contributed to a CleatsPL repository.
+
+Original Author Code does not include code independently authored by other contributors.
+
+## 9. No Effect on Third-Party Contributions
+
+Nothing in this document grants the Original Author or an Esteemed Author ownership of, or additional licensing rights in, code independently authored by another contributor.
+
+The inclusion of Original Author Code in a CleatsPL repository does not by itself cause code independently authored by another contributor to become Original Author Code.
+
+Likewise, the inclusion of another contributor's code in a personal copy, fork, or derivative work does not grant the Original Author or an Esteemed Author any additional rights in that contributor's code.
+
+## 10. Esteemed Author Designation and Revocation
+
+The CleatsPL organization may designate an individual as an "Esteemed Author" at its discretion.
+
+An individual's Esteemed Author additional permissions remain in effect for as long as that individual retains the Esteemed Author designation.
+
+The CleatsPL organization may revoke an individual's Esteemed Author designation at any time. Upon such revocation, the additional permissions granted to that individual under Sections 2 through 5 immediately cease for any future exercise of those permissions.
+
+Revocation of an Esteemed Author designation does not:
+
+1. revoke or diminish any rights that the individual independently possesses under the AGPL-3.0 or any other applicable license;
+2. transfer or alter copyright ownership;
+3. invalidate copies, distributions, derivative works, or other lawful acts performed by the individual while the additional permissions were in effect; or
+4. affect the additional permissions or rights of the Original Author or any other Esteemed Author.
+
+Once revoked, an individual may not exercise the Esteemed Author permissions granted by this document unless and until the CleatsPL organization grants that individual the Esteemed Author designation again.
+
+## 11. Survival and Irrevocability
+
+The additional permissions granted to the Original Author under this document are perpetual and irrevocable.
+
+They shall continue notwithstanding the subsequent modification, redistribution, restructuring, transfer, discontinuation, or development of the Playmaker project.
+
+The additional permissions granted to an Esteemed Author are perpetual until revoked in accordance with Section 10.
+
+The Original Author's permissions are not affected by the revocation of any individual's Esteemed Author designation.
+
+## 12. No Limitation on Independently Held Rights
+
+Nothing in this document shall be interpreted as limiting any copyright, license, or other rights independently held by the Original Author or an Esteemed Author in code that such individual authored or otherwise has the legal right to use, modify, distribute, or license.
+
+These additional permissions are intended to provide the Original Author with an express, perpetual, and irrevocable license, and Esteemed Authors with an express, perpetual-until-revoked license, to the Original Author Code described in Section 8, subject to the terms and limitations stated in this document.
+
+## 13. Preservation of AGPL-3.0 Rights
+
+Except where an additional permission expressly grants a right beyond those provided by the AGPL-3.0, nothing in this document shall be interpreted to restrict, diminish, or remove any rights granted to recipients under the AGPL-3.0.
+
+The Playmaker project may therefore be freely forked, copied, modified, and redistributed by recipients in accordance with the AGPL-3.0.
